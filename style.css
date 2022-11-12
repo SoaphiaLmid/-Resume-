@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+body {
+padding:20px;
+margin:50px 2px 100px 200px;
+border-style: dotted;
+border-width:5px;
+  border-color:#cfacf7;
+}
+header{
+font-family:'Courier New', monospace;
+  letter-spacing: 1px;
+  text-transform: ; 
+color
+}
+.light{
+color:palevioletred
+}
+#Extra{
+color:seagreen
+}
+body {
+
+}
